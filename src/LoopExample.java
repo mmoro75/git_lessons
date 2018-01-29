@@ -9,7 +9,7 @@ test for my_branch
 
 prova github_branch
 
-git gui
+jenkins test
 
 */
 public class Chap9Part1
