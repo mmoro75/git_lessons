@@ -12,7 +12,7 @@ prova github_branch
 git gui
 
 */
-public class Chap9Part1
+public class LoopExample 
 {
    public static void main(String[] args)
    {
