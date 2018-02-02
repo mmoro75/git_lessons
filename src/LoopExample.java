@@ -3,14 +3,6 @@ while (relational expression) {
    loop body
 }
 
-this file is for git training" and it is now modified and again 
-
-test for my_branch
-
-prova github_branch
-
-jenkins test
-
 */
 public class LoopExample 
 {
